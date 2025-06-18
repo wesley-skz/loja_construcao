@@ -161,7 +161,7 @@ body {
 } 
 
 .hero1 {
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('') center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('contatos.png') center/cover no-repeat;
     color: #fff;
     padding: 50px 0;
     text-align: center;
